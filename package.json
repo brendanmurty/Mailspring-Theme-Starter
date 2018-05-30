@@ -1,10 +1,10 @@
 {
-  "name": "theme-starter",
-  "title": "Starer Theme",
-  "displayName": "Starer Theme",
+  "name": "mailspring-dark-teal-theme",
+  "title": "Dark Teal",
+  "displayName": "Dark Teal",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "A great dark theme to start your own themes.",
+  "description": "A teal on dark theme.",
   "license": "GPL-3.0",
   "engines": {
     "mailspring": "*"
